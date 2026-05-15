@@ -17,6 +17,9 @@ I am an aspiring SOC Analyst focused on:
 - OWASP ZAP
 - Linux
 - Network Security
+- Endpoint Security
+- Log Analysis
+- Active Directory
 
 ## Featured Projects
 - Azure Sentinel SIEM Lab
