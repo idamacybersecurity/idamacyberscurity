@@ -36,18 +36,27 @@ I am an aspiring SOC Analyst focused on:
 - GOMYCODE Intro to Cybersecurity
 
   # 🔥 Featured Projects
+  
+### ✅ Azure Sentinel SIEM Lab
+🔗[View Project](./Azure-Sentinel-SIEM/)
+
+### ✅ Windows Event Monitoring with Splunk SIEM
+🔗[View Project](./Windows-Event-Monitoring-with-Splunk-SIEM/)
+
+### ✅ OWASP-ZAP-Vulnerability-Assessment-Project
+🔗[View Project](./OWASP-ZAP-Vulnerability-Assessment-Project/)
+
+### ✅ Vulnerability Assessment Nessus
+🔗 [View Project](./Vulnerability-Assessment-Nessus/)
+
+### ✅ Phishing Awareness Lab with Gophish
+🔗[View Project](./Phishing-Awareness-Lab-with-Gophish/)
 
 ### ✅Active Directory Basics Lab
 🔗[View Project](./Active-Directory-Basics-Lab/)
 
 ### ✅SOC Ticketing & Incident Response Workflow
 🔗[View Project](./SOC-Ticketing-&-Incident-Response-Workflow/)
-
-### ✅ Azure Sentinel SIEM Lab
-🔗[View Project](./Azure-Sentinel-SIEM/)
-
-### ✅ Phishing Awareness Lab with Gophish
-🔗[View Project](./Phishing-Awareness-Lab-with-Gophish/)
 
 ### ✅ Phishing-Email-Analysis
 🔗[View Project](./Phishing-Email-Analysis/)
@@ -57,9 +66,6 @@ I am an aspiring SOC Analyst focused on:
 
 ### ✅ EDR Investigation Lab
 🔗[View Project](./EDR-Investigation/)
-
-### ✅ Windows Event Monitoring with Splunk SIEM
-🔗[View Project](./Windows-Event-Monitoring-with-Splunk-SIEM/)
 
 ### ✅ TryHackMe Blue Team Labs
  🔗[View TryHackMe Portfolio](./TryHackMe-Blue-Team-Labs/)
@@ -73,14 +79,10 @@ I am an aspiring SOC Analyst focused on:
 ### ✅ Wireshark Traffic Analysis 
 🔗 [View Project](./Wireshark-Traffic-Analysis/)
 
-### ✅ Vulnerability Assessment Nessus
-🔗 [View Project](./Vulnerability-Assessment-Nessus/)
-
 ### ✅ Vulnerability Assessment Nmap
 🔗[View Project](./Vulnerability-Assessment-Nmap/)
 
-### ✅ OWASP-ZAP-Vulnerability-Assessment-Project
-🔗[View Project](./OWASP-ZAP-Vulnerability-Assessment-Project/)
+
 
 # 🔥Introduction-to-Cybersecurity-Learning-Process @Gomycode
 
