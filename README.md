@@ -12,6 +12,7 @@ I am an aspiring SOC Analyst focused on:
 - Incident Response
 - Vulnerability Assessment
 - Blue Team Operations
+- And more 
 
 ## Technical Skills
 - Microsoft Sentinel
@@ -49,17 +50,23 @@ I am an aspiring SOC Analyst focused on:
 ### ✅ Vulnerability Assessment Nessus
 🔗 [View Project](./Vulnerability-Assessment-Nessus/)
 
+### ✅ Vulnerability Assessment Nmap
+🔗[View Project](./Vulnerability-Assessment-Nmap/)
+
 ### ✅ Phishing Awareness Lab with Gophish
 🔗[View Project](./Phishing-Awareness-Lab-with-Gophish/)
+
+### ✅ Phishing-Email-Analysis
+🔗[View Project](./Phishing-Email-Analysis/)
+
+### ✅ Wireshark Traffic Analysis 
+🔗 [View Project](./Wireshark-Traffic-Analysis/)
 
 ### ✅Active Directory Basics Lab
 🔗[View Project](./Active-Directory-Basics-Lab/)
 
 ### ✅SOC Ticketing & Incident Response Workflow
 🔗[View Project](./SOC-Ticketing-&-Incident-Response-Workflow/)
-
-### ✅ Phishing-Email-Analysis
-🔗[View Project](./Phishing-Email-Analysis/)
 
 ### ✅ Brute Force Attack Investigation
 🔗[View Project](./Brute-Force-Attack-Investigation/)
@@ -75,14 +82,6 @@ I am an aspiring SOC Analyst focused on:
  
 ### ✅ Race Condition Exploitation 
 🔗 [View Project](./Race-Condition-Exploitation/)
-
-### ✅ Wireshark Traffic Analysis 
-🔗 [View Project](./Wireshark-Traffic-Analysis/)
-
-### ✅ Vulnerability Assessment Nmap
-🔗[View Project](./Vulnerability-Assessment-Nmap/)
-
-
 
 # 🔥Introduction-to-Cybersecurity-Learning-Process @Gomycode
 
