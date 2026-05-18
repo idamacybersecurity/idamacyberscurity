@@ -12,7 +12,7 @@ I am an aspiring SOC Analyst focused on:
 - Incident Response
 - Vulnerability Assessment
 - Blue Team Operations
-- And more 
+ 
 
 ## Technical Skills
 - Microsoft Sentinel
@@ -25,6 +25,7 @@ I am an aspiring SOC Analyst focused on:
 - Endpoint Security
 - Log Analysis
 - Active Directory
+- And more
 
 ## Featured Projects
 - Azure Sentinel SIEM Lab
@@ -36,7 +37,7 @@ I am an aspiring SOC Analyst focused on:
 - CompTIA Security+ SY0-701
 - GOMYCODE Intro to Cybersecurity
 
-  # 🔥 Featured Projects
+# 🔥 Featured Projects
   
 ### ✅ Azure Sentinel SIEM Lab
 🔗[View Project](./Azure-Sentinel-SIEM/)
@@ -83,7 +84,7 @@ I am an aspiring SOC Analyst focused on:
 ### ✅ Race Condition Exploitation 
 🔗 [View Project](./Race-Condition-Exploitation/)
 
-# 🔥Introduction-to-Cybersecurity-Learning-Process @Gomycode
+# 🔥 Introduction-to-Cybersecurity-Learning-Process @Gomycode
 
 # 📚 Structured Training & Checkpoints
 
