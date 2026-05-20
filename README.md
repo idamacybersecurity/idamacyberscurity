@@ -64,6 +64,9 @@ I am an aspiring SOC Analyst focused on:
 ### ✅Active Directory Basics Lab
 🔗[View Project](https://github.com/idamacybersecurity/Active-Directory-Basics-Lab/blob/main/README.md)
 
+### ✅ Windows Firewall Configuration Lab
+🔗[View Project](https://github.com/idamacybersecurity/Cybersecurity-Lab-Portfolio/blob/main/Windows-Firewall-Configuration-Lab/README.md)
+
 ### ✅SOC Ticketing & Incident Response Workflow
 🔗[View Project](https://github.com/idamacybersecurity/SOC-Ticketing---Incident-Response-Workflow/blob/main/README.md)
 
