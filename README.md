@@ -44,7 +44,9 @@ I am an aspiring SOC Analyst focused on:
 # 🔥 Featured Projects
 ---
 ### ✅ Azure Sentinel SIEM Lab
-|🔗[View Project](https://github.com/idamacybersecurity/Azure-Sentinel-SIEM/blob/main/README.md)|
+<a href="https://github.com/idamacybersecurity/Azure-Sentinel-SIEM/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Windows Event Monitoring with Splunk SIEM
