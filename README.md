@@ -45,73 +45,115 @@ I am an aspiring SOC Analyst focused on:
 ---
 ### ✅ Azure Sentinel SIEM Lab
 
-  <a href="https://github.com/idamacybersecurity/Azure-Sentinel-SIEM/blob/main/README.md">
-  <img src="https://img.shields.io/badge/View_Project-007BFF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 <a href="https://github.com/idamacybersecurity/Azure-Sentinel-SIEM/blob/main/README.md">
-  <img src="https://img.shields.io/badge/View_Project-Green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ---
 ### ✅ Windows Event Monitoring with Splunk SIEM
-🔗[View Project](https://github.com/idamacybersecurity/Windows-Event-Monitoring-with-Splunk-SIEM/blob/main/README.md)
+
+<a href="https://github.com/idamacybersecurity/Windows-Event-Monitoring-with-Splunk-SIEM/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ OWASP-ZAP-Vulnerability-Assessment-Project
-🔗[View Project](https://github.com/idamacybersecurity/OWASP-ZAP-Vulnerability-Assessment-Project/blob/main/README.md)
+
+<a href="https://github.com/idamacybersecurity/OWASP-ZAP-Vulnerability-Assessment-Project/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Vulnerability Assessment Nessus
-🔗 [View Project](https://github.com/idamacybersecurity/Vulnerability-Assessment-Nessus/blob/main/README.md)
+
+<a href="https://github.com/idamacybersecurity/Vulnerability-Assessment-Nessus/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Vulnerability Assessment Nmap
-🔗[View Project](https://github.com/idamacybersecurity/Vulnerability-Assessment-Nmap/blob/main/README.md)
+
+<a href="https://github.com/idamacybersecurity/Vulnerability-Assessment-Nmap/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Phishing Awareness Lab with Gophish
-🔗[View Project](https://github.com/idamacybersecurity/Phishing-Awareness-Lab-with-Gophish-/blob/main/README.md)
+
+<a href="https://github.com/idamacybersecurity/Phishing-Awareness-Lab-with-Gophish-/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅Active Directory Basics Lab
-🔗[View Project](https://github.com/idamacybersecurity/Active-Directory-Basics-Lab/blob/main/README.md)
+
+<a href="https://github.com/idamacybersecurity/Active-Directory-Basics-Lab/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Windows Firewall Configuration Lab
-🔗[View Project](https://github.com/idamacybersecurity/Cybersecurity-Lab-Portfolio/blob/main/Windows-Firewall-Configuration-Lab/README.md)
+
+<a href="https://github.com/idamacybersecurity/Cybersecurity-Lab-Portfolio/blob/main/Windows-Firewall-Configuration-Lab/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅SOC Ticketing & Incident Response Workflow
-🔗[View Project](https://github.com/idamacybersecurity/SOC-Ticketing---Incident-Response-Workflow/blob/main/README.md)
+
+<a href="https://github.com/idamacybersecurity/SOC-Ticketing---Incident-Response-Workflow/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Phishing-Email-Analysis
-🔗[View Project](https://github.com/idamacybersecurity/Phishing-Email-Analysis/blob/main/README.md)
+
+<a href="https://github.com/idamacybersecurity/Phishing-Email-Analysis/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Brute Force Attack Investigation
-🔗[View Project](https://github.com/idamacybersecurity/Brute-Force-Attack-Investigation/blob/main/README.md)
+
+<a href="https://github.com/idamacybersecurity/Brute-Force-Attack-Investigation/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ EDR Investigation Lab
-🔗[View Project](https://github.com/idamacybersecurity/EDR-Investigation/blob/main/README.md)
+
+<a href="https://github.com/idamacybersecurity/EDR-Investigation/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ TryHackMe Blue Team Labs
- 🔗[View TryHackMe Portfolio](https://github.com/idamacybersecurity/TryHackMe-Blue-Team-Labs/blob/main/README.md)
+
+ <a href="https://github.com/idamacybersecurity/TryHackMe-Blue-Team-Labs/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
  
 --- 
 ### ✅ TryHackMe AI Security Labs
- 🔗[View TryHackMe AI Security Lab](https://github.com/idamacybersecurity/Tryhackme-AI-Security/blob/main/README.md)
+
+  <a href="https://github.com/idamacybersecurity/Tryhackme-AI-Security/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
  
  ---
 ### ✅ Race Condition Exploitation 
-🔗 [View Project](https://github.com/idamacybersecurity/Race-Condition-Exploitation/blob/main/README.md)
 
+  <a href="https://github.com/idamacybersecurity/Race-Condition-Exploitation/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
+ 
 ---
 ### ✅ Wireshark Traffic Analysis 
-🔗 [View Project](https://github.com/idamacybersecurity/Wireshark-Traffic-Analysis/blob/main/README.md)
+
+  <a href="https://github.com/idamacybersecurity/Wireshark-Traffic-Analysis/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
+ 
 
 ---
 # 🔥 Introduction-to-Cybersecurity-Learning-Process @Gomycode
@@ -124,31 +166,52 @@ Detailed module summaries and practical evidence:
 
 ---
 ### ✅ Security Ethics Fundamentals
-🔗 [View Project](https://github.com/idamacybersecurity/Security-Ethics-Fundamentals/blob/main/README.md)
+
+  <a href="https://github.com/idamacybersecurity/Security-Ethics-Fundamentals/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Network Fundamentals
-🔗 [View Project](https://github.com/idamacybersecurity/Network-Fundamentals/blob/main/README.md)
+
+  <a href="https://github.com/idamacybersecurity/Network-Fundamentals/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Active Defense Lab  
-🔗 [View Project](https://github.com/idamacybersecurity/Active-Defense-Lab/blob/main/README.md)
+
+ <a href="https://github.com/idamacybersecurity/Active-Defense-Lab/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Threats Vulnerabilities Architecture
-🔗 [View Project](https://github.com/idamacybersecurity/Threats-Vulnerabilities-Architecture/blob/main/README.md)
+
+ <a href="https://github.com/idamacybersecurity/Threats-Vulnerabilities-Architecture/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Secure Architecture Design  
-🔗 [View Project](https://github.com/idamacybersecurity/Secure-Architecture-Design/blob/main/README.md)
+
+ <a href="https://github.com/idamacybersecurity/Secure-Architecture-Design/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Cryptography Secure Implementation 
-🔗 [View Project](https://github.com/idamacybersecurity/Cryptography-Secure-Implementation/blob/main/README.md)
+
+ <a href="https://github.com/idamacybersecurity/Cryptography-Secure-Implementation/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 ### ✅ Security Capstone Project
-🔗[View Project](https://github.com/idamacybersecurity/Security-Capstone-Project/blob/main/README.md)
+
+ <a href="https://github.com/idamacybersecurity/Security-Capstone-Project/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 # 🎯 Career Objective
