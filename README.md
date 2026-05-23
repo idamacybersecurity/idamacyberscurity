@@ -127,7 +127,7 @@ Seeking an entry-level SOC Analyst role where I can apply hands-on skills in vul
 
 ## 📬 Contact
 - **Email Address:** idamavothuke@gmail.com
-- [Linkedin](/https://www.linkedin.com/in/idama-victory/)
+- [Linkedin](https://www.linkedin.com/in/idama-victory)
 
 ## 📌 Note
 
