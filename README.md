@@ -57,16 +57,17 @@ I am an aspiring SOC Analyst focused on:
 </a>
 
 ---
-### ✅ OWASP-ZAP-Vulnerability-Assessment-Project
 
-<a href="https://github.com/idamacybersecurity/OWASP-ZAP-Vulnerability-Assessment-Project/blob/main/README.md">
+### ✅ Vulnerability Assessment Nessus
+
+<a href="https://github.com/idamacybersecurity/Vulnerability-Assessment-Nessus/blob/main/README.md">
   <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ---
-### ✅ Vulnerability Assessment Nessus
+### ✅ OWASP-ZAP-Vulnerability-Assessment-Project
 
-<a href="https://github.com/idamacybersecurity/Vulnerability-Assessment-Nessus/blob/main/README.md">
+<a href="https://github.com/idamacybersecurity/OWASP-ZAP-Vulnerability-Assessment-Project/blob/main/README.md">
   <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
