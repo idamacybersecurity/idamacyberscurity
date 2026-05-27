@@ -50,6 +50,13 @@ I am an aspiring SOC Analyst focused on:
 </a>
 
 ---
+### ✅ AWS IAM User Management and MFA Security Lab
+
+<a href="https://github.com/idamacybersecurity/AWS-IAM-User-Management-and-MFA-Security-Lab/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
 ### ✅ Windows Event Monitoring with Splunk SIEM
 
 <a href="https://github.com/idamacybersecurity/Windows-Event-Monitoring-with-Splunk-SIEM/blob/main/README.md">
