@@ -102,7 +102,7 @@ I am an aspiring SOC Analyst focused on:
 ---
 ### ✅ Windows Firewall Configuration Lab
 
-<a href="https://github.com/idamacybersecurity/Cybersecurity-Lab-Portfolio/blob/main/Windows-Firewall-Configuration-Lab/README.md">
+<a href="https://github.com/idamacybersecurity/Windows-Firewall-Configuration-lab/blob/main/README.md">
   <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
