@@ -64,6 +64,13 @@ I am an aspiring SOC Analyst focused on:
 </a>
 
 ---
+### ✅ AWS VPC Segmentation and EC2 Deployment Lab
+
+<a href="https://github.com/idamacybersecurity/AWS-VPC-Segmentation-and-EC2-Deployment-Lab/blob/main/README.md">
+  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
 ### ✅ AWS S3 Bucket Hardening Project
 
 <a href="https://github.com/idamacybersecurity/AWS-S3-Bucket-Hardening-Project/blob/main/README.md">
