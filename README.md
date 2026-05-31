@@ -4,15 +4,20 @@
 
 # Hi, I'm Idama Victory Othuke 👋
 
-## Cybersecurity Analyst | SOC Enthusiast | Security+ Certified
+Cybersecurity Analyst | SOC Operations | AWS Cloud Security | Security+ Certified
 
-I am an aspiring SOC Analyst focused on:
+Passionate about threat detection, incident response, SIEM monitoring, and cloud security. Building hands-on experience through Microsoft Sentinel, AWS security projects, vulnerability assessments, and blue team labs.
 
-- SIEM Monitoring
-- Threat Detection
-- Incident Response
+I am a cybersecurity professional with hands-on experience in:
+
+- SIEM Monitoring & Log Analysis
+- Threat Detection & Incident Response
 - Vulnerability Assessment
 - Blue Team Operations
+- AWS IAM Security
+- AWS CloudTrail Monitoring
+- AWS S3 Security Hardening
+- AWS VPC & Network Segmentation
 
 # Technical Skills
 
@@ -27,14 +32,23 @@ I am an aspiring SOC Analyst focused on:
 - Log Analysis
 - Active Directory
 - Problem Solving
+- AWS IAM
+- AWS CloudTrail
+- AWS S3 Security
+- AWS VPC
+- Security Groups
+- Network Access Control Lists (NACLs)
 
 # Featured Projects
 
-- Azure Sentinel SIEM Lab
+- Microsoft Sentinel SIEM Lab
+- AWS IAM Security Lab
+- AWS CloudTrail Monitoring & Investigation Lab
+- AWS S3 Bucket Hardening Project
+- AWS VPC Network Segmentation Lab
 - OWASP ZAP Vulnerability Assessment
 - Wireshark Traffic Analysis
 - TryHackMe Blue Team Labs
-- And more
 
 # Certifications
 
