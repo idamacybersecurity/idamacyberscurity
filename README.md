@@ -52,32 +52,16 @@ I am a cybersecurity professional with hands-on experience in:
 - GOMYCODE Intro to Cybersecurity
 
 # 🔥 Featured Projects
-✅ [### Azure Sentinel SIEM Lab](https://github.com/idamacybersecurity/Azure-Sentinel-SIEM/blob/main/README.md)
-
-<a href="https://github.com/idamacybersecurity/Azure-Sentinel-SIEM/blob/main/README.md">
-  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
-</a>
+✅ [Azure Sentinel SIEM Lab](https://github.com/idamacybersecurity/Azure-Sentinel-SIEM/blob/main/README.md)
 
 ---
-### ✅ AWS IAM User Management and MFA Security Lab
-
-<a href="https://github.com/idamacybersecurity/AWS-IAM-User-Management-and-MFA-Security-Lab/blob/main/README.md">
-  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
-</a>
+✅ [AWS IAM User Management and MFA Security Lab](https://github.com/idamacybersecurity/AWS-IAM-User-Management-and-MFA-Security-Lab/blob/main/README.md)
 
 ---
-### ✅ AWS CloudTrail Monitoring & IAM Permission Investigation Lab
-
-<a href="https://github.com/idamacybersecurity/AWS-CloudTrail-Monitoring-IAM-Permission-Investigation-Lab/blob/main/README.md">
-  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
-</a>
+✅ [AWS CloudTrail Monitoring & IAM Permission Investigation Lab](https://github.com/idamacybersecurity/AWS-CloudTrail-Monitoring-IAM-Permission-Investigation-Lab/blob/main/README.md)
 
 ---
-### ✅ AWS VPC Segmentation and EC2 Deployment Lab
-
-<a href="https://github.com/idamacybersecurity/AWS-VPC-Segmentation-and-EC2-Deployment-Lab/blob/main/README.md">
-  <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
-</a>
+###✅ [AWS VPC Segmentation and EC2 Deployment Lab](https://github.com/idamacybersecurity/AWS-VPC-Segmentation-and-EC2-Deployment-Lab/blob/main/README.md)
 
 ---
 ### ✅ AWS S3 Bucket Hardening Project
