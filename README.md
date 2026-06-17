@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="image.png">
-</p>
-
 # Hi, I'm Idama Victory Othuke 👋
 
 Cybersecurity Analyst | SOC Operations | AWS Cloud Security | Security+ Certified
@@ -56,8 +52,7 @@ I am a cybersecurity professional with hands-on experience in:
 - GOMYCODE Intro to Cybersecurity
 
 # 🔥 Featured Projects
----
-### ✅ Azure Sentinel SIEM Lab
+✅ [### Azure Sentinel SIEM Lab](https://github.com/idamacybersecurity/Azure-Sentinel-SIEM/blob/main/README.md)
 
 <a href="https://github.com/idamacybersecurity/Azure-Sentinel-SIEM/blob/main/README.md">
   <img src="https://img.shields.io/badge/View_Project-28a745?style=for-the-badge&logo=github&logoColor=white">
