@@ -73,7 +73,7 @@ I am a cybersecurity professional with hands-on experience in:
 ✅[AWS Config Compliance Monitoring & S3 Misconfiguration Remediation Lab](https://github.com/idamacybersecurity/AWS-Config-Compliance-Monitoring-S3-Misconfiguration-Remediation-Lab/blob/main/README.md)
 
 ---
-✅[Deploying PrestaShop on AWS EC2 lab](https://github.com/idamacybersecurity/Deploying-PrestaShop-on-AWS-EC2/blob/main/README.md)
+✅[AWS Two-Tier PrestaShop Deployment](https://github.com/idamacybersecurity/AWS-EC2-Two-Tier-PrestaShop-Deployment/blob/main/README.md)
 
 ---
 ✅ [Windows Event Monitoring with Splunk SIEM](https://github.com/idamacybersecurity/Windows-Event-Monitoring-with-Splunk-SIEM/blob/main/README.md)
