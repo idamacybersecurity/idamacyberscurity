@@ -1,4 +1,4 @@
-# Hi, I'm Idama Victory Othuke 👋
+# Hi, I'm Victory Othuke Idama👋
 
 Cybersecurity Analyst | SOC Operations | AWS Cloud Security | Security+ Certified
 
