@@ -79,6 +79,9 @@ I am a cybersecurity professional with hands-on experience in:
 ✅[Network Attack Detection & Honeypot Monitoring](https://github.com/idamacybersecurity/Network-Attack-Detection-Honeypot-Monitoring/blob/main/README.md)
 
 ---
+✅[Vulnerability Scan and Exploit Simulation](https://github.com/idamacybersecurity/Vulnerability-Scan-and-Exploit-Simulation/blob/main/README.md)
+
+---
 ✅ [Windows Event Monitoring with Splunk SIEM](https://github.com/idamacybersecurity/Windows-Event-Monitoring-with-Splunk-SIEM/blob/main/README.md)
 
 ---
