@@ -76,6 +76,9 @@ I am a cybersecurity professional with hands-on experience in:
 ✅[AWS Two-Tier PrestaShop Deployment](https://github.com/idamacybersecurity/AWS-EC2-Two-Tier-PrestaShop-Deployment/blob/main/README.md)
 
 ---
+✅[Network Attack Detection & Honeypot Monitoring](https://github.com/idamacybersecurity/Network-Attack-Detection-Honeypot-Monitoring/blob/main/README.md)
+
+---
 ✅ [Windows Event Monitoring with Splunk SIEM](https://github.com/idamacybersecurity/Windows-Event-Monitoring-with-Splunk-SIEM/blob/main/README.md)
 
 ---
