@@ -81,6 +81,7 @@ I am a cybersecurity professional with hands-on experience in:
 ---
 ✅[Vulnerability Scan and Exploit Simulation](https://github.com/idamacybersecurity/Vulnerability-Scan-and-Exploit-Simulation/blob/main/README.md)
 
+---
 ✅[PrestaShop Web Application Firewall (WAF) Security Lab](https://github.com/idamacybersecurity/PrestaShop-Web-Application-Firewall-WAF-Security-Lab/blob/main/README.md)
 
 ---
