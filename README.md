@@ -88,6 +88,9 @@ I am a cybersecurity professional with hands-on experience in:
 ✅[Log Analysis & SSH Brute-Force Detection with ELK Stack](https://github.com/idamacybersecurity/Log-Analysis-SSH-Brute-Force-Detection-with-ELK-Stack/blob/main/README.md)
 
 ---
+✅[AWS IAM Cloud Privilege Escalation Simulation](https://github.com/idamacybersecurity/AWS-IAM-Privilege-Escalation-Simulation/blob/main/README.md)
+
+---
 ✅ [Windows Event Monitoring with Splunk SIEM](https://github.com/idamacybersecurity/Windows-Event-Monitoring-with-Splunk-SIEM/blob/main/README.md)
 
 ---
