@@ -85,6 +85,9 @@ I am a cybersecurity professional with hands-on experience in:
 ✅[PrestaShop Web Application Firewall (WAF) Security Lab](https://github.com/idamacybersecurity/PrestaShop-Web-Application-Firewall-WAF-Security-Lab/blob/main/README.md)
 
 ---
+✅[Log Analysis & SSH Brute-Force Detection with ELK Stack](https://github.com/idamacybersecurity/Log-Analysis-SSH-Brute-Force-Detection-with-ELK-Stack/blob/main/README.md)
+
+---
 ✅ [Windows Event Monitoring with Splunk SIEM](https://github.com/idamacybersecurity/Windows-Event-Monitoring-with-Splunk-SIEM/blob/main/README.md)
 
 ---
